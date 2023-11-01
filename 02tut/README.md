@@ -1,12 +1,8 @@
 # Chapter2:  App & JSX
 
-command run: npx create-react-app 01tut
+- Change App.js: Create new variables, new functions
 
-extension: ES7+ React/Redux/React-Native snippets 
-
-Choose File/Preperences/Settings : 
-    enter "emmmet" -> includes languages: {item:javascript, value:javascriptreact}
-    
+- See to change your browser [http://localhost:3000]
 
 # Getting Started with Create React App
 
