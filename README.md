@@ -1,5 +1,6 @@
 # reactjs-beginer
 Aim to learn react js
+Set up nodejs : https://nodejs.org/en
 
 //////////////////////////////////////////////
 
@@ -13,5 +14,5 @@ Author:
   
 ///////////////////////////////////////////////
 
-Nodejs : https://nodejs.org/en
+
 
