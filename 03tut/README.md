@@ -1,5 +1,20 @@
 # Chapter3:  Functional Components
 
+- Extention: ES7+ React/Redux/React-Native snippets
+
+Learn about section "Search command" : CTRL + ALT + R
+
+- Creat a new file : src/Header.js
+
+use "Search command" : rafce
+
+App.js : import Header.js, replace tag "Header" with <Header />
+
+- Create a new file : src/Content.js, src/Footer.js
+
+- Setting : https://chrome.google.com/webstore  -> React Developer Tools:
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=vi
+
 
 # Getting Started with Create React App
 
