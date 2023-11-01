@@ -2,6 +2,12 @@
 
 - Change App.js: Create new variables, new functions
 
+Format when in tag: {x}
+
+example1: <p>Hello {name}</p>
+
+example2: <p>Hello {function()}</p>
+
 - See to change your browser [http://localhost:3000]
 
 # Getting Started with Create React App
