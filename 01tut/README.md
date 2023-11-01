@@ -1,6 +1,12 @@
-# creat react app
+# Prepare react app
 
-run: npx create-react-app 01tut
+command run: npx create-react-app 01tut
+
+extension: ES7+ React/Redux/React-Native snippets 
+
+Choose File/Preperences/Settings : 
+    enter "emmmet" -> includes languages: {item:javascript, value:javascriptreact}
+    
 
 # Getting Started with Create React App
 
