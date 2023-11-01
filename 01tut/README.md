@@ -10,6 +10,8 @@ Choose File/Preperences/Settings :
 delete files: src/App.test.js , src/reportWebVitals.js , src/setupTests.js
 
 Change src/index.js : delete reportWebVitals
+
+Change src/App.js to view it in your browser
     
 
 # Getting Started with Create React App
