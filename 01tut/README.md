@@ -6,6 +6,10 @@ extension: ES7+ React/Redux/React-Native snippets
 
 Choose File/Preperences/Settings : 
     enter "emmmet" -> includes languages: {item:javascript, value:javascriptreact}
+
+delete files: src/App.test.js , src/reportWebVitals.js , src/setupTests.js
+
+Change src/index.js : delete reportWebVitals
     
 
 # Getting Started with Create React App
