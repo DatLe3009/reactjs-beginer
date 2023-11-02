@@ -19,9 +19,9 @@ const Content = () => {
         console.log(count)
     }
 
-    const handleClick3 = (e) => {
-        console.log(e.target.innerText)
-    }
+    // const handleClick3 = (e) => {
+    //     console.log(e.target.innerText)
+    // }
 
     return (
         <main>
