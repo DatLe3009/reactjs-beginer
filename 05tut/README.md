@@ -1,11 +1,9 @@
-# Chapter4:  Applying CSS Styles
-- Learn about : https://styled-components.com/
+# Chapter5:  Click Events
+- Content.js : create function handleClick for button click
 
-- Try add css in Header.js
+- Error "Unchecked runtime.lastError: The message port closed before a response was received."
 
-- Delete src/App.css, src/logo.sgv
-
-- Copy index.css from youtube of author
+slove : check "extiontion chrome" -> React developer tools must be available, other extiontions are not available
 
 # Getting Started with Create React App
 
