@@ -5,6 +5,7 @@ View in the browser: Components -> Content -> hooks
 
 - Error : Array.prototype.map() expects a return value from arrow function
 
+Error "{}"
     {items.map((item) => {
                         <li className="item" key={item.id}>
                             <input
@@ -16,8 +17,7 @@ View in the browser: Components -> Content -> hooks
                         </li>
                 })}
 
-    {items.map((item) => {
-                    return (
+    {items.map((item) => {(
                         <li className="item" key={item.id}>
                             <input
                                 type="checkbox"
@@ -26,10 +26,25 @@ View in the browser: Components -> Content -> hooks
                             <label>{item.item}</label>
                             <button>Delete</button>
                         </li>
-                    );
+                    )
                 })}
 
-- install react-icons:         npm i react-icons
+- install react-icons:         npm i react-icons --save   ===  npm i react-icons -D
+
+                                npm i react-icons
+
+In summary, the main difference between the two commands is how the package is saved as a dependency in the package.json file, but the actual installation of the package remains the same.
+
+
+Documentation: https://www.npmjs.com/package/react-icons
+
+- Content.js : Change button "delete", use "react-icons"
+
+- Copy index.js from youtube author
+
+- Content.js : Create function handleCheck()
+
+
 
 # Getting Started with Create React App
 
