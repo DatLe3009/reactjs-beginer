@@ -42,7 +42,7 @@ Documentation: https://www.npmjs.com/package/react-icons
 
 - Copy index.js from youtube author
 
-- Content.js : Create function handleCheck()
+- Content.js : Create function handleCheck(), handleDelete()
 
 
 
