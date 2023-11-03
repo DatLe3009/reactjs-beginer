@@ -1,4 +1,33 @@
-# Chapter7: 
+# Chapter7: Lists & Keys
+- Content.js : create default state of lists
+
+View in the browser: Components -> Content -> hooks
+
+- Error : Array.prototype.map() expects a return value from arrow function
+
+  {items.map((item) => {
+                        <li className="item" key={item.id}>
+                            <input
+                                type="checkbox"
+                                checked={item.checked}
+                            />
+                            <label>{item.item}</label>
+                            <button>Delete</button>
+                        </li>
+                })}
+
+      {items.map((item) => {
+                    return (
+                        <li className="item" key={item.id}>
+                            <input
+                                type="checkbox"
+                                checked={item.checked}
+                            />
+                            <label>{item.item}</label>
+                            <button>Delete</button>
+                        </li>
+                    );
+                })}
 
 
 # Getting Started with Create React App
