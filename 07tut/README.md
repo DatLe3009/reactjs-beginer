@@ -6,14 +6,14 @@ View in the browser: Components -> Content -> hooks
 - Error : Array.prototype.map() expects a return value from arrow function
 
     {items.map((item) => {
-                        _<li className="item" key={item.id}>
+                        <li className="item" key={item.id}>
                             <input
                                 type="checkbox"
                                 checked={item.checked}
                             />
                             <label>{item.item}</label>
                             <button>Delete</button>
-                        </li>_
+                        </li>
                 })}
 
     {items.map((item) => {
@@ -29,6 +29,7 @@ View in the browser: Components -> Content -> hooks
                     );
                 })}
 
+- install react-icons:         npm i react-icons
 
 # Getting Started with Create React App
 
