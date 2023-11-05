@@ -6,7 +6,7 @@
 
 ## Process (continue project tut05)
 
-### step1: Use "useState"
+### step1: Use `useState`
 
 - in /src/Content.js:
 
