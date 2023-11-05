@@ -9,7 +9,8 @@ Change function "handleClick" and view Console in browser
 
 - Error:
 
-`const handleClick = () => {
+`
+const handleClick = () => {
 
         setCount(count + 1)
 
