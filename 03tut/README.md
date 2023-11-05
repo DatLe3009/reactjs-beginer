@@ -1,5 +1,14 @@
 # Chapter3:  Functional Components
 
+## Roadmap - Components - Functional Componenets
+
+[Roadmap](https://roadmap.sh/react)    ->    Components basics [JSX]    ->    [JSX in React on w3school](https://www.w3schools.com/react/react_jsx.asp)
+
+## Process (continue project tut01)
+
+### step1: use JSX in src/App.js
+
+
 - Extention: ES7+ React/Redux/React-Native snippets
 
 Learn about section "Search command" : CTRL + ALT + R
