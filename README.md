@@ -1,13 +1,13 @@
 # React JS Full Course for Beginners
-youtube: https://www.youtube.com/watch?v=RVFAyFWO4go&t=2502s
+- youtube: https://www.youtube.com/watch?v=RVFAyFWO4go&t=2502s
 
-Author:
+- Author:
 
   Twitter:  / yesdavidgray  
   LinkedIn: / davidagray  
   Blog:     https://yesdavidgray.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Resources for learning Node.js
 
