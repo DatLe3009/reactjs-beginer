@@ -1,27 +1,61 @@
 # Chapter9: Controlled Component Inputs
--package.json: move npm (react-icons) from devDependencies to dependencies (production):
 
-npm i react-icons --save-prod
+## How to use localStorage (key, value) in browser
 
-- redundancy LineItem.js : delete key= {item.id} because ItemList.js had key = {item.id}.
+## Default behavior of a form submission
 
-- Create AddItem.js
+  By default, when a form is submitted in React, the page refreshes, resulting in the loss of the current application state.
 
-- Copy index.css from youtube of author
+  To prevent the default form submission behavior in React, you can use the preventDefault() method of the event object. This method prevents the default action associated with the event from occurring.
 
-# View props from components in browser
+## The Complete Guide to useRef() and Refs in React
 
-- View handeSubmit in console : add e.preventDefault() in handeSubmit() in App.js
+[link](https://dmitripavlutin.com/react-useref/)
 
-Default of submit : reload page => do not see console.log in console
+## npm
 
-- App.js: Create function setAndSaveItems() and addItem(), Change useState() of items
+- move `react-icons` from devDependencies to dependencies (production):  
+  
+  `npm i react-icons --save-prod`
 
-Learn how to use localStorage (key, value) in browser
+## process
 
-- Create SearchItem.js => change App.js, change Content
+### step1: redundancy 
 
-- Additem.js: fix focus of Additem. Button is still focus? 
+- in /src/LineItem.js
+  
+  delete key= {item.id} because ItemList.js had key = {item.id}.
 
-Learn {useRef} from react
+### step2: Create Add Item
+
+- in /src
+  
+  Create AddItem.js
+
+### step3: use `index.css` from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
+
+### step4: view props from components in browser
+
+### step5: prevent default of submit, create new functions
+
+- in /src/App.js
+  
+  Adjust function handeSubmit() : add e.preventDefault()
+
+  Create function setAndSaveItems() and addItem()
+
+  Change useState() of items
+
+### step6: Create Search Item
+
+-in /src
+
+  Create SearchItem.js
+
+### step7: fix focus of Additem. Button is still focus? 
+
+in /src/Additem.js:
+
+  Add `useRef`
+  
 
