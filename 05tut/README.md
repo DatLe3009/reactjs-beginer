@@ -4,26 +4,16 @@
 
 [Roadmap](https://roadmap.sh/react)    ->    Rendering - Events   ->    [Responding to Events](https://react.dev/learn/responding-to-events)
 
-## Process (continue project tut03)
+## Process (continue project tut04)
 
-### step1: Inline styling
+### step1: create function
 
-- in /src/Header.js:
+- in /src/Content.js:
 
-  Add css 
-
-### step2: Delete file not necessary at the moment
-
-- in /src:
-
-  Delete `App.css`, `logo.sgv`
-
-### step3: Remove css of `Header.js` and use `index.css` from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
+    create functions: handleClick(), handleClick2(), handleClick3()
 
 
-- Content.js : create function handleClick for button click
+## Error "Unchecked runtime.lastError: The message port closed before a response was received."
 
-- Error "Unchecked runtime.lastError: The message port closed before a response was received."
-
-slove : check "extiontion chrome" -> React developer tools must be available, other extiontions are not available
+- slove : check "extensions for chrome" -> `React developer tools` must be available, other extiontions are not available
 
