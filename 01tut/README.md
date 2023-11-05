@@ -4,13 +4,21 @@
 
 documentation: https://create-react-app.dev/docs/getting-started/
 
+Learn more about Vite, Create React App: https://roadmap.sh/react
+
 ## Extensions 
     
 ES7+ React/Redux/React-Native snippets 
 
 ## Settings
+ 
+in toolbar Choose File -> Preperences -> Settings 
+    
+Ctrl + ,
 
-in toolbar: Choose File -> Preperences -> Settings: find "emmet" -> includes languages: Add item {item:javascript, value:javascriptreact}
+### Add Item in Emmet
+
+find "emmet" -> Choose Extensions -> Emmet: includes languages -> Add item {item:javascript, value:javascriptreact}
 
 ## process
 
