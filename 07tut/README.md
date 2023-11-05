@@ -46,7 +46,7 @@
 
 # Error : Array.prototype.map() expects a return value from arrow function
 
-Error "{}"
+Error "{}" -> "()"
 <pre><code> 
 {items.map((item) => {
    <li className="item" key={item.id}>
@@ -60,14 +60,15 @@ Error "{}"
 })} 
 </code></pre>
 
-   <pre><code> {items.map((item) => (
-                        <li className="item" key={item.id}>
-                            <input
-                                type="checkbox"
-                                checked={item.checked}
-                            />
-                            <label>{item.item}</label>
-                            <button>Delete</button>
-                        </li>
-                    )
-                )} </code></pre>
+<pre><code> 
+{items.map((item) => (
+   <li className="item" key={item.id}>
+      <input
+         type="checkbox"
+         checked={item.checked}
+      />
+      <label>{item.item}</label>
+      <button>Delete</button>
+   </li>
+))} 
+</code></pre>
