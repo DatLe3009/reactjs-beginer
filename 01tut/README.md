@@ -1,15 +1,34 @@
 # Chapter1: Start here
 
+## Roadmap - CLI Tools
+
+documentation: https://create-react-app.dev/docs/getting-started/
+
+## Extensions 
+    
+ES7+ React/Redux/React-Native snippets 
+
+## Settings
+
+Choose File/Preperences/Settings -> find "emmmet" -> includes languages: {item:javascript, value:javascriptreact}
+
+## process
+
+### step1: create react app
+
 command run: npx create-react-app 01tut
 
-extension: ES7+ React/Redux/React-Native snippets 
+### step2: Delete file not necessary at the moment and adjust file
 
-Choose File/Preperences/Settings : 
-    enter "emmmet" -> includes languages: {item:javascript, value:javascriptreact}
+- in /src:
 
-delete files: src/App.test.js , src/reportWebVitals.js , src/setupTests.js
+    Delete App.test.js , reportWebVitals.js , setupTests.js
 
-Change src/index.js : delete reportWebVitals
+    Adjust index.js : delete reportWebVitals
 
-Change src/App.js to view it in your browser
+### step3: Test
+
+Open http://localhost:3000 to view it in your browser.
+
+in /src: change App.js to view it in your browser.
     
