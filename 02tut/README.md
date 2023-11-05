@@ -6,5 +6,5 @@
 
 ## Process (continue project tut01)
 
-### step1: use JSX in src/App.js
+### step1: use JSX in src/`App.js`
 
