@@ -4,9 +4,9 @@
 
 [Roadmap](https://roadmap.sh/react)    ->    Components - Functional Components    ->    [import-export](https://react.dev/learn/importing-and-exporting-components)
 
-## Process (continue project tut01)
+## Process (continue project tut02)
 
-### step1: use JSX in src/App.js
+### step1: use extension `ES7+ React/Redux/React-Native snippets`
 
 Learn about section "Search command" : CTRL + ALT + R
 
