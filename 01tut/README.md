@@ -2,9 +2,9 @@
 
 ## Roadmap - CLI Tools
 
-documentation: https://create-react-app.dev/docs/getting-started/
+Roadmap: https://roadmap.sh/react    ->    CLI Tools
 
-Learn more about Vite, Create React App: https://roadmap.sh/react
+Documentation: https://create-react-app.dev/docs/getting-started/
 
 ## Extensions 
     
