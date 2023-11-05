@@ -10,7 +10,7 @@ ES7+ React/Redux/React-Native snippets
 
 ## Settings
 
-Choose File/Preperences/Settings -> find "emmmet" -> includes languages: {item:javascript, value:javascriptreact}
+in toolbar: Choose File -> Preperences -> Settings: find "emmet" -> includes languages: Add item {item:javascript, value:javascriptreact}
 
 ## process
 
