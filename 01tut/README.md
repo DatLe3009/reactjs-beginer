@@ -36,7 +36,7 @@ command run: npx create-react-app 01tut
 
 ### step3: Test
 
-Open http://localhost:3000 to view it in your browser.
+command run: npm start
 
-in /src: change App.js to view it in your browser.
+in /src: change App.js to view it in your browser
     
