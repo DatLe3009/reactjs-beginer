@@ -24,7 +24,7 @@ Error "{}"
                         </li>
                 })}</code></pre>
 
-    {items.map((item) => (
+    <pre><code>{items.map((item) => (
                         <li className="item" key={item.id}>
                             <input
                                 type="checkbox"
@@ -34,7 +34,7 @@ Error "{}"
                             <button>Delete</button>
                         </li>
                     )
-                )}
+                )} </code></pre>
 
 - install react-icons:         npm i react-icons --save   ===  npm i react-icons -D
 
