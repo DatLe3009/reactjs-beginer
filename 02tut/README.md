@@ -2,7 +2,7 @@
 
 ## Roadmap - Components
 
-Roadmap: https://roadmap.sh/react    ->    Components basics [JSX]    ->    https://www.w3schools.com/react/react_jsx.asp
+[Roadmap](https://roadmap.sh/react)    ->    Components basics [JSX]    ->    [JSX in React on w3school](https://www.w3schools.com/react/react_jsx.asp)
 
 ## Process (continue project tut01)
 
