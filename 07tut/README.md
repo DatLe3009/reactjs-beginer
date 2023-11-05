@@ -13,7 +13,7 @@ View in the browser: Components -> Content -> hooks
 # Error : Array.prototype.map() expects a return value from arrow function
 
 Error "{}"
-   <pre><code> {items.map((item) => {
+   <pre><code><div> {items.map((item) => {
                         <li className="item" key={item.id}>
                             <input
                                 type="checkbox"
@@ -22,7 +22,7 @@ Error "{}"
                             <label>{item.item}</label>
                             <button>Delete</button>
                         </li>
-                })} </code></pre>
+                })} <div></code></pre>
 
    <pre><code> {items.map((item) => (
                         <li className="item" key={item.id}>
