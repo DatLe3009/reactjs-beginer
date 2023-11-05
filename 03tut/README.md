@@ -2,7 +2,7 @@
 
 ## Roadmap - Components - Functional Components
 
-[Roadmap](https://roadmap.sh/react)    ->    Functional Components    ->    [import-export](https://react.dev/learn/importing-and-exporting-components)
+[Roadmap](https://roadmap.sh/react)    ->    Components - Functional Components    ->    [import-export](https://react.dev/learn/importing-and-exporting-components)
 
 ## Process (continue project tut01)
 
