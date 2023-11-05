@@ -1,6 +1,6 @@
 # Chapter 10: Project Challenge
 
-## description: 
+## Description: 
 
 App have input: colorvalue, output: square of colorvalue
 
@@ -44,7 +44,7 @@ App have input: colorvalue, output: square of colorvalue
 
   `Input.js` : run `npm i colornames -S` (`-S`: production, `-D`: development) and continue...
 
-### step7: complete
+### step7: Complete
 
   `App.js`: Create useState of isDarkText
   
