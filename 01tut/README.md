@@ -2,7 +2,7 @@
 
 ## Roadmap - CLI Tools
 
-Roadmap: https://roadmap.sh/react    ->    CLI Tools
+[Roadmap](https://roadmap.sh/react)    ->    CLI Tools
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
