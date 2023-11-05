@@ -10,7 +10,7 @@
 
 - in /src/Header.js:
 
-  Add css
+  Add css 
 
 ### step2: Delete file not necessary at the moment
 
@@ -18,4 +18,4 @@
 
   Delete App.css, logo.sgv
 
-### step3: Use index.css from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
+### step3: Remove css of Header.js and use index.css from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
