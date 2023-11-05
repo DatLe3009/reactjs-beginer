@@ -6,7 +6,11 @@
 
 ## Process (continue project tut06)
 
-- Content.js : create default state of lists
+### step1: Use `useState`
+
+- in src/Content.js : 
+
+   <code>const [items, setItems] = useState([])</code>
 
 View in the browser: Components -> Content -> hooks
 
