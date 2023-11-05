@@ -16,7 +16,7 @@
 
 - in /src/Content.js:
 
-  Adjust function `handleClick()`: run `npm start` to view it in your brower
+  Adjust function `handleClick()` and `handleClick2()`: run `npm start` to view it in your brower
 
 ## Error
 
