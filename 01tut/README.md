@@ -10,6 +10,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     
 ES7+ React/Redux/React-Native snippets 
 
+## Extensions for Chrome
+
+React Developer Tools
+
 ## Settings
  
 `File` -> `Preperences` -> `Settings` 
