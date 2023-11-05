@@ -4,13 +4,31 @@
 
 [Roadmap](https://roadmap.sh/react)    ->    Rendering - Lists and Keys
 
+## npm
+
+   [react-icons](https://www.npmjs.com/package/react-icons)
+
+   ### explain
+
+   npm i react-icons --save   ===  npm i react-icons -D
+
+   npm i react-icons
+
+   In summary, the main difference between the two commands is how the package is saved as a dependency in the package.json file, but the actual installation of the package remains the same.
+
+   `-D` === `--save`: is saved as a dev dependency
+
+   `-S : is saved as a production dependency
+
 ## Process (continue project tut06)
 
-### step1: Use `useState`
+### step1: Use `useState` for lists
 
 - in src/Content.js : 
 
    <code>const [items, setItems] = useState([])</code>
+
+   Create new functions handleCheck() and handleDelete()
 
 ### step2: Use `React developer tools` to view hooks
 
@@ -18,21 +36,29 @@
 
   `Components` -> `Content` -> `hooks`
 
+### step3: use package `react-icons` 
+
+- in src/Content.js : 
+  
+  Adjust button `delete` with using "react-icons"
+
+- Copy index.js from youtube author
+
 # Error : Array.prototype.map() expects a return value from arrow function
 
 Error "{}"
-   <><pre><code> 
-      {items.map((item) => {
-                        <li className="item" key={item.id}>
-                            <input
-                                type="checkbox"
-                                checked={item.checked}
-                            />
-                            <label>{item.item}</label>
-                            <button>Delete</button>
-                        </li>
-                })} 
-   </code></pre></>
+<pre><code> 
+{items.map((item) => {
+   <li className="item" key={item.id}>
+      <input
+         type="checkbox"
+         checked={item.checked}
+      />
+      <label>{item.item}</label>
+      <button>Delete</button>
+   </li>
+})} 
+</code></pre>
 
    <pre><code> {items.map((item) => (
                         <li className="item" key={item.id}>
@@ -45,19 +71,3 @@ Error "{}"
                         </li>
                     )
                 )} </code></pre>
-
-- install react-icons:         npm i react-icons --save   ===  npm i react-icons -D
-
-                                npm i react-icons
-
-In summary, the main difference between the two commands is how the package is saved as a dependency in the package.json file, but the actual installation of the package remains the same.
-
-
-Documentation: https://www.npmjs.com/package/react-icons
-
-- Content.js : Change button "delete", use "react-icons"
-
-- Copy index.js from youtube author
-
-- Content.js : Create function handleCheck(), handleDelete()
-
