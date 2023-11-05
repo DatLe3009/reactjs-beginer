@@ -26,7 +26,7 @@ find "emmet" -> Choose Extensions -> Emmet: includes languages -> Add item {item
 
 command run: npx create-react-app 01tut
 
-### step2: Delete file not necessary at the moment and adjust file
+### step2: delete file not necessary at the moment and adjust file
 
 - in /src:
 
@@ -34,7 +34,7 @@ command run: npx create-react-app 01tut
 
     Adjust index.js : delete reportWebVitals
 
-### step3: Test
+### step3: test
 
 - in /src:
 
