@@ -20,7 +20,7 @@ App have input: colorvalue, output: square of colorvalue
 
 - in src:
 
-    create `Input.js` and `Square.js` with using `rafce` [02tut]
+    create `Input.js` and `Square.js` with using `rafce` [03tut]
 
     import files for App.js
 
@@ -32,7 +32,7 @@ App have input: colorvalue, output: square of colorvalue
   
   `Input.js` and `Square.js`: continue...
 
-### step5: use `index.css` from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
+### step5: Use `index.css` from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
 
 ### step6: Continue... 
 
@@ -47,10 +47,7 @@ App have input: colorvalue, output: square of colorvalue
 ### step7: complete
 
   `App.js`: Create useState of isDarkText
+  
   `App.js`, `Input.js` and `Square.js`: complete
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
