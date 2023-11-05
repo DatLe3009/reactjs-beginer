@@ -1,9 +1,16 @@
 # Chapter7: Lists & Keys
+
+## Roadmap - Rendering - Lists and Keys
+
+[Roadmap](https://roadmap.sh/react)    ->    Rendering - Lists and Keys
+
+## Process (continue project tut06)
+
 - Content.js : create default state of lists
 
 View in the browser: Components -> Content -> hooks
 
-- Error : Array.prototype.map() expects a return value from arrow function
+# Error : Array.prototype.map() expects a return value from arrow function
 
 Error "{}"
     {items.map((item) => {
