@@ -9,7 +9,7 @@ Change function "handleClick" and view Console in browser
 
 - Error:
 
-`
+<pre><code>
 const handleClick = () => {
 
         setCount(count + 1)
@@ -18,7 +18,7 @@ const handleClick = () => {
         
         console.log(count)
     }
-`
+</code></pre>
 
 In the given code snippet, a function named handleClick is defined. Let's break down what it does:
 
