@@ -24,7 +24,7 @@ find "emmet" -> Choose Extensions -> Emmet: includes languages -> Add item {item
 
 ### step1: create react app
 
-command run: npx create-react-app 01tut
+run `npx create-react-app 01tut`
 
 ### step2: delete file not necessary at the moment and adjust file
 
