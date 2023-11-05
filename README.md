@@ -7,6 +7,8 @@ Author:
   LinkedIn: / davidagray  
   Blog:     https://yesdavidgray.com
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 # Resources for learning Node.js
 
 Node.js Official Website: https://nodejs.org/
