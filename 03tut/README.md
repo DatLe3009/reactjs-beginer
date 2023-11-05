@@ -12,9 +12,8 @@
 
   Creat new files: Header.js , Content.js, Footer.js with using `rafce` in `Search command` (`CTRL` + `ALT` + `R`) in extension `ES7+ ...`
 
+### step2: import 
 
-App.js : import Header.js, Content.js, Footer.js
+- in /src/App.js : import Header.js, Content.js, Footer.js
 
-- Setting : https://chrome.google.com/webstore  -> React Developer Tools:
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=vi
 
