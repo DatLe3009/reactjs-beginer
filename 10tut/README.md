@@ -1,24 +1,53 @@
 # Chapter 10: Project Challenge
 
-- description: App have input: colorvalue, output: square of colorvalue
+## description: 
 
-- setup: 
+App have input: colorvalue, output: square of colorvalue
 
-    npx create-react-app 10tut
+## process
 
-src: keep 3 files: App.js, index.js, index.css and edit to display "hello!" in your browser
+### step1: Create react app
 
-- Step 1: Create Input.js and Square.js with rafce (CTRL+ALT+R), then, in App.js: import Input.js and Square.js
+`npx create-react-app 10tut`
 
-- Step 2: App.js: Create useState of colorValue, complete Input.js and Square.js
+### step2: Keep files necessary
 
-- Step 3: Download index.css from youtube author
+- in src
 
-- Step 4: App.js: Create useState of hexValue, complete Square.js
+    keep 3 files: `App.js`, `index.js`, `index.css` and  edit to display "hello!" in your browser
 
-run command: npm i colornames -S (-S: production, -D: development) and complete Input.js
+### step3: Create Input.js and Square.js 
 
-- Step 5: Create useState of isDarkText, complete Input.js and Square.js
+- in src:
+
+    create `Input.js` and `Square.js` with using `rafce` [02tut]
+
+    import files for App.js
+
+### step4: Continue...
+
+- in /src
+  
+  `App.js`: Create useState of colorValue
+  
+  `Input.js` and `Square.js`: continue...
+
+### step5: use `index.css` from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
+
+### step6: Continue... 
+
+- in /src
+
+  `App.js`: Create useState of hexValue
+  
+  `Square.js`: continue...
+
+  `Input.js` : run `npm i colornames -S` (`-S`: production, `-D`: development) and continue...
+
+### step7: complete
+
+  `App.js`: Create useState of isDarkText
+  `App.js`, `Input.js` and `Square.js`: complete
 
 
 # Getting Started with Create React App
