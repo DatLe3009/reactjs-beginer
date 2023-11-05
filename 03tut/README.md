@@ -10,9 +10,10 @@
 
 Learn about section "Search command" : CTRL + ALT + R
 
-- Creat a new file : src/Header.js , src/Content.js, src/Footer.js
+- in /src:
 
-use "Search command" : rafce
+  Creat new files: Header.js , Content.js, Footer.js with using `rafce` in `Search command` (`CTRL` + `ALT` + `R`) in extension `ES7+ ...`
+
 
 App.js : import Header.js, Content.js, Footer.js
 
