@@ -20,7 +20,7 @@ Ctrl + ,
 
 find "emmet" -> Choose Extensions -> Emmet: includes languages -> Add item {item:javascript, value:javascriptreact}
 
-## process
+## Process
 
 ### step1: create react app
 
