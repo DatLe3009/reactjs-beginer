@@ -36,8 +36,6 @@ command run: npx create-react-app 01tut
 
 ### step3: Test
 
-command run: npm start
-
-in /src/App.js:  
-    adjuit to view it in your browser
+-in /src:
+    Adjust App.js: run `npm start` to view it in your browser
     
