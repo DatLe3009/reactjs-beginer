@@ -1,8 +1,8 @@
 # Chapter5:  Click Events
 
-## Roadmap - Styling - Styled components
+## Roadmap - Rendering - Events
 
-[Roadmap](https://roadmap.sh/react)    ->    Styling - Styled components   ->    [Official Docs](https://styled-components.com)
+[Roadmap](https://roadmap.sh/react)    ->    Rendering - Events   ->    [Responding to Events](https://react.dev/learn/responding-to-events)
 
 ## Process (continue project tut03)
 
