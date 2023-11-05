@@ -18,7 +18,7 @@ in toolbar `File` -> `Preperences` -> `Settings`
 
 ### Add Item in Emmet
 
-find `emmet` -> `Extensions` -> `Emmet: includes languages` -> `Add item` {item:javascript, value:javascriptreact}
+`emmet` -> `Extensions` -> `Emmet: includes languages` -> `Add item` {item:javascript, value:javascriptreact}
 
 ## Process
 
