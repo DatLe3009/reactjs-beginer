@@ -1,12 +1,10 @@
 # Chapter2:  App & JSX
 
-- Change App.js: Create new variables, new functions
+## Roadmap - Components
 
-Format when in tag: {x}
+Roadmap: https://roadmap.sh/react    ->    Components basics [JSX]
 
-example1: <code><p>Hello {name}</p></code>
+## Process (continue project tut01)
 
-example2: <code><p>Hello {function()}</p></code>
-
-- See to change your browser [http://localhost:3000]
+### step1: use JSX in src/App.js
 
