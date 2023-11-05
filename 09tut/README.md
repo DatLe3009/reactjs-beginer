@@ -48,13 +48,13 @@
 
 ### step6: Create Search Item
 
--in /src
+- in /src
 
   Create SearchItem.js
 
 ### step7: fix focus of Additem. Button is still focus? 
 
-in /src/Additem.js:
+- in /src/Additem.js:
 
   Add `useRef`
   
