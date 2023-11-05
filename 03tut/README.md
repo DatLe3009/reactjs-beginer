@@ -8,8 +8,6 @@
 
 ### step1: use extension `ES7+ React/Redux/React-Native snippets`
 
-Learn about section "Search command" : CTRL + ALT + R
-
 - in /src:
 
   Creat new files: Header.js , Content.js, Footer.js with using `rafce` in `Search command` (`CTRL` + `ALT` + `R`) in extension `ES7+ ...`
