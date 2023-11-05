@@ -1,26 +1,21 @@
 # Chapter4:  Applying CSS Styles
-- Learn about : https://styled-components.com/
-
-- Try add css in Header.js
-
-- Delete src/App.css, src/logo.sgv
-
-- Copy index.css from youtube of author
 
 ## Roadmap - Styling - Styled components
 
 [Roadmap](https://roadmap.sh/react)    ->    Styling - Styled components   ->    [Official Docs](https://styled-components.com)
 
-## Process (continue project tut02)
+## Process (continue project tut03)
 
-### step1: use extension `ES7+ React/Redux/React-Native snippets`
+### step1: Inline styling
+
+- in /src/Header.js:
+
+  Add css
+
+### step2: Delete file not necessary at the moment
 
 - in /src:
 
-  Creat new files: Header.js , Content.js, Footer.js with using `rafce` in `Search command` (`CTRL` + `ALT` + `R`) in extension `ES7+ ...`
+  Delete App.css, logo.sgv
 
-### step2: import 
-
-- in /src/App.js :
-  
-  import Header.js, Content.js, Footer.js
+### step3: Use index.css from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
