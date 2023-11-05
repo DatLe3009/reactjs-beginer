@@ -4,7 +4,7 @@
 
 App have input: colorvalue, output: square of colorvalue
 
-## process
+## Process
 
 ### step1: Create react app
 
