@@ -9,7 +9,7 @@ Change function "handleClick" and view Console in browser
 
 - Error:
 
-"const handleClick = () => {
+`const handleClick = () => {
 
         setCount(count + 1)
 
@@ -17,7 +17,7 @@ Change function "handleClick" and view Console in browser
         
         console.log(count)
     }
-"
+`
 
 In the given code snippet, a function named handleClick is defined. Let's break down what it does:
 
