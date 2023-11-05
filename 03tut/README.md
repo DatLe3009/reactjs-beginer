@@ -14,6 +14,8 @@
 
 ### step2: import 
 
-- in /src/App.js : import Header.js, Content.js, Footer.js
+- in /src/App.js :
+  
+  import Header.js, Content.js, Footer.js
 
 
