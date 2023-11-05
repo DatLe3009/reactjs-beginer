@@ -4,7 +4,7 @@
 
 Roadmap: https://roadmap.sh/react    ->    CLI Tools
 
-Documentation: https://create-react-app.dev/docs/getting-started/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Extensions 
     
