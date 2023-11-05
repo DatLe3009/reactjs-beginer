@@ -42,7 +42,7 @@
   
   Adjust button `delete` with using "react-icons"
 
-- Copy index.js from youtube author
+### step4: use `index.css` from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
 
 # Error : Array.prototype.map() expects a return value from arrow function
 
