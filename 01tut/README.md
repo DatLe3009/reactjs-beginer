@@ -34,13 +34,13 @@ run `npx create-react-app 01tut`
 
 - in /src:
 
-    Delete App.test.js , reportWebVitals.js , setupTests.js
+    Delete `App.test.js` , `reportWebVitals.js` , `setupTests.js`
 
-    Adjust index.js : delete reportWebVitals
+    Adjust `index.js` : delete `reportWebVitals`
 
 ### step3: test
 
 - in /src:
 
-    Adjust App.js: run `npm start` to view it in your browser
+    Adjust `App.js`: run `npm start` to view it in your browser
     
