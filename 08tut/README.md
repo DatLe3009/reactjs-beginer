@@ -16,7 +16,7 @@
   
   Create ItemList.js : aim to replace item list in Content.js
 
-  Creat LineItem.js : aim to replace line item in ItemList.js
+  Create LineItem.js : aim to replace line item in ItemList.js
 
 
 # Error browsers: Each child in a list should have a unique "key" prop.Check the render method of `ItemList`. 
