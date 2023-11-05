@@ -38,5 +38,6 @@ command run: npx create-react-app 01tut
 
 command run: npm start
 
-in /src: change App.js to view it in your browser
+in /src/App.js:  
+    adjuit to view it in your browser
     
