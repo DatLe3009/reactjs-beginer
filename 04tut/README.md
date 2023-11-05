@@ -18,4 +18,4 @@
 
   Delete App.css, logo.sgv
 
-### step3: Remove css of Header.js and use index.css from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
+### step3: Remove css of `Header.js` and use `index.css` from [author](https://www.youtube.com/watch?v=RVFAyFWO4go&t=1092s)
