@@ -23,7 +23,7 @@
 
 [Slove](https://react.dev/learn/rendering-lists#keeping-list-items-in-order-with-key)
 
-in src/ItemList.js: 
+- in src/ItemList.js: 
 
   add  <code>key={item.id}</code>
 
