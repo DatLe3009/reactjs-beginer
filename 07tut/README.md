@@ -22,9 +22,9 @@ Error "{}"
                             <label>{item.item}</label>
                             <button>Delete</button>
                         </li>
-                })}</code></pre>
+                })} </code></pre>
 
-    <pre><code>{items.map((item) => (
+   <pre><code> {items.map((item) => (
                         <li className="item" key={item.id}>
                             <input
                                 type="checkbox"
