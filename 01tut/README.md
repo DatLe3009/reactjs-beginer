@@ -12,7 +12,7 @@ ES7+ React/Redux/React-Native snippets
 
 ## Settings
  
-in toolbar Choose `File` -> `Preperences` -> `Settings` 
+in toolbar `File` -> `Preperences` -> `Settings` 
     
 `Ctrl` + `,`
 
