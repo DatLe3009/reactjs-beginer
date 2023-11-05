@@ -6,7 +6,7 @@
 
 ## Process (continue project tut04)
 
-### step1: create function
+### step1: create functions
 
 - in /src/Content.js:
 
