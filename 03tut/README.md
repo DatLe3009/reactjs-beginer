@@ -2,14 +2,11 @@
 
 ## Roadmap - Components - Functional Components
 
-[Roadmap](https://roadmap.sh/react)    ->    Functional Components    ->    [JSX in React on w3school](https://www.w3schools.com/react/react_jsx.asp)
+[Roadmap](https://roadmap.sh/react)    ->    Functional Components    ->    [import-export](https://react.dev/learn/importing-and-exporting-components)
 
 ## Process (continue project tut01)
 
 ### step1: use JSX in src/App.js
-
-
-- Extention: ES7+ React/Redux/React-Native snippets
 
 Learn about section "Search command" : CTRL + ALT + R
 
