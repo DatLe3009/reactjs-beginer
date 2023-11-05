@@ -12,7 +12,11 @@
 
    <code>const [items, setItems] = useState([])</code>
 
-View in the browser: Components -> Content -> hooks
+### step2: Use `React developer tools` to view hooks
+
+- in the browser:
+
+  `Components` -> `Content` -> `hooks`
 
 # Error : Array.prototype.map() expects a return value from arrow function
 
