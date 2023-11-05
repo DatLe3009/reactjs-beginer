@@ -3,6 +3,7 @@ import { useState } from 'react';
 const Content = () => {
     const [name, setName] = useState('Dave');
     const [count, setCount] = useState(0);
+    
     const handleNameChange = () => {
         const names = ['Bob', 'Kevin', 'Dave'];
         const int = Math.floor(Math.random() * 3);
@@ -18,10 +19,6 @@ const Content = () => {
     const handleClick2 = (name) => {
         console.log(count)
     }
-
-    // const handleClick3 = (e) => {
-    //     console.log(e.target.innerText)
-    // }
 
     return (
         <main>
