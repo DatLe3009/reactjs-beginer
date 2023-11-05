@@ -10,13 +10,13 @@
 
 - in /src/Content.js:
 
-  Adjust function handleNameChange(): use "useState"
+  Adjust function `handleNameChange()`: use `useState`
 
 ### step2: Test
 
 - in /src/Content.js:
 
-  Adjust function handleClick(): run `npm start` to view it in your brower
+  Adjust function `handleClick()`: run `npm start` to view it in your brower
 
 ## Error
 
