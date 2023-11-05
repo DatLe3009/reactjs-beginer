@@ -15,5 +15,5 @@
 
 ## Error "Unchecked runtime.lastError: The message port closed before a response was received."
 
-- slove : check "extensions for chrome" -> `React developer tools` must be available, other extiontions are not available
+check "extensions for chrome" -> `React developer tools` must be available, other extiontions are not available
 
