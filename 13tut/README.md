@@ -1,10 +1,10 @@
-# Chapter12: Fetch API Data
+# Chapter13: Fetch API Data
 
 ## npm
 
 [json-server](https://www.npmjs.com/package/json-server?activeTab=readme)
 
-## Process (continue project 11tut)
+## Process (continue project 12tut)
 
 ### step1: run `json-server` and `npm start`
 
