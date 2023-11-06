@@ -12,7 +12,9 @@
 
 - run `npx json-server -p 3500 -w data/db.json`
 
-### step2: use `fetch()`
+### step2: create file `apiRequest.js`
+
+### step3: use file `apiRequest.js` for `App.js`, learn about get, post, patch, delete
 
 
 
