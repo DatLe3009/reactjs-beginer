@@ -12,7 +12,7 @@
 
 - run `npx json-server -p 3500 -w data/db.json`
 
-# step2: use `fetch()`
+### step2: use `fetch()`
 
 - in /src/App.js: Replace useEffect() with
 
