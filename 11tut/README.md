@@ -4,11 +4,11 @@
 
 - [Roadmap](https://roadmap.sh/react)    ->    Hooks - Basic Hooks[useEffect]
 
-## Process
+## Process (Continue 09tut)
 
 ### step1: use `useEffect`for update
 
-- in /src/App.js:
+- in /src/App.js: Remove function setAndSaveItems() and replace with
 
 <pre><code>
 useEffect(() => {
@@ -16,19 +16,6 @@ useEffect(() => {
   }, [items])
 </code></pre>
 
-### step2: delete file not necessary at the moment and adjust file
-
-- in /src:
-
-    Delete `App.test.js` , `reportWebVitals.js` , `setupTests.js`
-
-    Adjust `index.js` : delete `reportWebVitals`
-
-### step3: test
-
-- in /src:
-
-    Adjust `App.js`: run `npm start` to view it in your browser
     
 
 
