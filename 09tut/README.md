@@ -18,7 +18,7 @@
   
   `npm i react-icons --save-prod`
 
-## Process (continue project tut08)
+## Process (continue project 08tut)
 
 ### step1: redundancy 
 

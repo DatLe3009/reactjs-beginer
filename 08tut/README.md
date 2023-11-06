@@ -4,7 +4,7 @@
 
 ## Roadmap - Rendering - Render Props
 
-## Process (continue project tut07)
+## Process (continue project 07tut)
 
 ### step1: use `props` and `defaultProps`
 

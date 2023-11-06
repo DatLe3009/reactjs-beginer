@@ -4,7 +4,7 @@
 
 [Roadmap](https://roadmap.sh/react)    ->    Components - Functional Components    ->    [import-export](https://react.dev/learn/importing-and-exporting-components)
 
-## Process (continue project tut02)
+## Process (continue project 02tut)
 
 ### step1: export to use extension `ES7+ React/Redux/React-Native snippets`
 

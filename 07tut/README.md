@@ -20,7 +20,7 @@
 
    `-S : is saved as a production dependency
 
-## Process (continue project tut06)
+## Process (continue project 06tut)
 
 ### step1: Use `useState` for lists
 
