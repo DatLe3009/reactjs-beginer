@@ -1,14 +1,34 @@
 # Chapter11:  useEffect Hook
 
-- description: useEffect is a special hook that lets you run side effects in React. It is similar to componentDidMount and componentDidUpdate, but it only runs when the component (or some of its props) changes and during the initial mount.
+## Roadmap - Hooks - Basic Hooks[useEffect]
 
-Visit the following resources to learn more:
+- [Roadmap](https://roadmap.sh/react)    ->    Hooks - Basic Hooks[useEffect]
 
-Using the Effect Hook: https://react.dev/reference/react/useEffect
+## Process
 
-React useEffect Hook by Example: https://www.robinwieruch.de/react-useeffect-hook
+### step1: use `useEffect`for update
 
-- steps:
+- in /src/App.js:
 
-+ step1: 
+<pre><code>
+useEffect(() => {
+    localStorage.setItem('shoppinglist', JSON.stringify(items));
+  }, [items])
+</code></pre>
+
+### step2: delete file not necessary at the moment and adjust file
+
+- in /src:
+
+    Delete `App.test.js` , `reportWebVitals.js` , `setupTests.js`
+
+    Adjust `index.js` : delete `reportWebVitals`
+
+### step3: test
+
+- in /src:
+
+    Adjust `App.js`: run `npm start` to view it in your browser
+    
+
 
