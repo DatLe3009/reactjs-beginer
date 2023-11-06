@@ -4,7 +4,7 @@
 
 [Roadmap](https://roadmap.sh/react)    ->    Styling - Styled components   ->    [Official Docs](https://styled-components.com)
 
-## Process (continue project tut03)
+## Process (continue project 03tut)
 
 ### step1: Inline styling
 
