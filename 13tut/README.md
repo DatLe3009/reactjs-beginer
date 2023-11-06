@@ -1,4 +1,4 @@
-# Chapter12: JSON Server
+# Chapter12: Fetch API Data
 
 ## npm
 
@@ -6,15 +6,51 @@
 
 ## Process (continue project 11tut)
 
-### step1: Create folder `data`, in it create file `db.json` 
+### step1: run `json-server` and `npm start`
 
-### step2: run `json-server`
+- run `npm start`
 
 - run `npx json-server -p 3500 -w data/db.json`
 
-- use `npx` instead of `npm` for `json-server` :
+# step2: use `fetch()`
 
-because we don't want to add `json-server` as a dependency in our react application, we just want to lanch it and work with it and `npx` allow us to do that instead of installing with `npm`.
+- in /src/App.js: Replace useEffect() with
+
+<pre><code>
+const API_URL = 'http://localhost:3500/items';
+useEffect(() => {
+    
+    const fetchItems = async () => {
+      try {
+        const response = await fetch(API_URL);
+        const listItems = await response.json();
+        console.log(listItems);
+        setItems(listItems);
+      } catch (err) {
+        console.log(err.stack)
+      }
+    }
+
+    (async () => await fetchItems())();
+}, [])
+</code></pre>
+
+- Test change API_URL to check error in browser
+
+### step3: Create `fecthError` and use it
+
+- in /src/App.js
+
+<code> const [fetchError, setFetchError] = useState(null);</code>
+
+### step4: use function `setTimeout()` to decribe loading...
+
+### step5: Create `isLoading` and use it
+
+- in /src/App.js
+
+<code> const [isLoading, setIsLoading] = useState(true);</code>
+
 
 
 
