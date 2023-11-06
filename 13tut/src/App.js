@@ -14,8 +14,6 @@ function App() {
   const [fetchError, setFetchError] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
 
-  console.log('1')
-
   useEffect(() => {
 
     const fetchItems = async () => {
