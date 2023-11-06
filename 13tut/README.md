@@ -1,4 +1,4 @@
-# Chapter12: Fetch API Data
+# Chapter13: Fetch API Data
 
 ## npm
 
