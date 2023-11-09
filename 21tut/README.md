@@ -24,7 +24,7 @@ Solution for props, reduce code
 
 * [react-use](https://www.npmjs.com/package/react-use)
 
-## Process (continue project 19tut)
+## Process (continue project 20tut)
 
 ### step1: run `json-server`
 
