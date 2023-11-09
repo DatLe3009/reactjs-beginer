@@ -31,3 +31,8 @@ Solution for props, reduce code
 - run `npx json-server -p 3500 -w data/db.json`
 
 ### step2: Create `/src/context/DataContext.js`
+
+## Error
+
+- setPosts is not a function -> Check `DataContext.js` in return
+
