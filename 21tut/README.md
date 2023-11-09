@@ -1,10 +1,8 @@
-# Chapter20: Custom Hooks
+# Chapter21: Context API
 
-## Roadmap - Hooks - Writing CustomHooks
+## 
 
-[Roadmap](https://roadmap.sh/react) - Hooks - Writing CustomHooks
-
-Building your own Hooks lets you extract component logic into reusable functions.
+Solution for props, reduce code
 
 ### Visit the following resources to learn more:
 
@@ -32,22 +30,4 @@ Building your own Hooks lets you extract component logic into reusable functions
 
 - run `npx json-server -p 3500 -w data/db.json`
 
-### step2: Create `/src/hooks/useWindowSize.js`
-### step3: Use `/src/hooks/useWindowSize.js` in `App.js` with `width`, add `Header`
-
-### step4: install npm `react-icons`
-
-### step5: Create `/src/hooks/useAxiosFetch.js` to fetch the data
-
-## Error
-
-Display in Edit Post, title and post have same content
-
--> Check? title, post in Edit Post `EditPost.js`
-
--> Update title, post -> 
-
-<pre><code>
-setEditTitle(post.title);
-setEditBody(post.title); // Error. fix post.body
-</code></pre>
+### step2: Create `/src/context/DataContext.js`

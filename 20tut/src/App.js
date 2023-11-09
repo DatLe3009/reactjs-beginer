@@ -59,9 +59,9 @@ function App() {
 
   const handleEdit = async (id) => {
     const datetime = format(new Date(), 'MMMM dd, yyyy pp');
-    const updatePost = { id, title: editTitle, datetime, body: editBody };
+    const updatedPost = { id, title: editTitle, datetime, body: editBody };
     try {
-      const response = await api.put(`/posts/${id}`, updatePost);
+      const response = await api.put(`/posts/${id}`, updatedPost);
       setPosts(posts.map(post => post.id === id ? { ...response.data } : post))
       setEditTitle('');
       setEditBody('');
