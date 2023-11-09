@@ -32,6 +32,13 @@ Solution for props, reduce code
 
 ### step2: Create `/src/context/DataContext.js`
 
+-> aim to simple `App.js`, 
+
+- use `createContext` from `react` , reduce to use props in components, create context
+
+- use `useContext` from `react` , in components, recives props easy from `createContext`, don't have props from `App.js`
+
+
 ## Error
 
 - setPosts is not a function -> Check `DataContext.js` in return
