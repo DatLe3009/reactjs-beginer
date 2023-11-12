@@ -52,7 +52,9 @@ Chapter 21: Context API & useContext Hook
 
 Chapter 22: Easy Peasy Redux
 
-Chapter 23: Build & Deploy Your React Apps
+Chapter 23: Build & Deploy Your React Apps -> https://github.com/DatLe3009/react_deploy_gh
+
+[deploy 11tut](https://datle3009.github.io/react_deploy_gh/)
 
 # Resources for learning Node.js
 
